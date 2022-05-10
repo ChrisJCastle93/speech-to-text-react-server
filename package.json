@@ -31,6 +31,7 @@
     "uuidv4": "^6.2.13"
   },
   "optionalDependencies": {
-    "bufferutil": "^4.0.6"
+    "bufferutil": "^4.0.6",
+    "utf-8-validate": "^5.0.9"
   }
 }
