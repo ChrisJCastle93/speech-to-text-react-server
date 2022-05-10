@@ -7,7 +7,7 @@
     "dev": "nodemon server.js"
   },
   "engines": {
-    "node": "12.x"
+    "node": "17.1.0"
   },
   "dependencies": {
     "bcrypt": "^5.0.1",
